@@ -18,8 +18,8 @@
 ## OPTIMIZED ROUTE
 
 ```
-NYC (JFK) → Sydney (3 nights) → Hunter Valley (1 night) → Melbourne (2 nights) 
-→ Hobart/Tasmania (2 nights) → Port Douglas/Cairns (3 nights) → Sydney → NYC
+NYC (EWR) → Sydney (3 nights) → Hunter Valley (1 night) → Melbourne (2 nights) 
+→ Hobart/Tasmania (2 nights) → Port Douglas/Cairns (3 nights) → Sydney → NYC (EWR)
 ```
 
 ---
@@ -27,23 +27,25 @@ NYC (JFK) → Sydney (3 nights) → Hunter Valley (1 night) → Melbourne (2 nig
 ## DAY-BY-DAY ITINERARY
 
 ### DAY 1 | Wednesday, Feb 11 - Depart NYC
-**Flight: JFK → Sydney**
+**Flight: EWR → Sydney (United)**
 
 | Time | Activity |
 |------|----------|
-| 5:15 PM | Depart JFK on Qantas QF12 via Auckland |
-| | 23h 55m total journey, 1 stop in Auckland (2h 40m layover) |
+| 6:00 PM | Depart Newark (EWR) on United via Los Angeles or San Francisco |
+| | ~23h total journey, 1 stop in LAX or SFO (no transit visa required) |
 
-**Recommended Flight Options:**
+**Recommended Flight Options (United from EWR):**
 | Airline | Route | Duration | Price (per person) |
 |---------|-------|----------|-------------------|
-| Qantas | JFK→AKL→SYD | 23h 55m | $1,606 round trip |
-| American/Qantas | JFK→DFW→BNE→SYD | 25h 59m | $1,456 round trip |
-| Delta | JFK→LAX→SYD | 25h 05m | $1,705 round trip |
+| United | EWR→LAX→SYD | 23h 05m | ~$1,100 round trip |
+| United | EWR→SFO→SYD | 23h 20m | ~$1,100 round trip |
+| United | EWR→IAH→SYD | 23h 30m | ~$1,100 round trip |
 
 **Notes:** 
 - Evening departure maximizes sleep on plane
+- All US connections - no transit visa required for Indian passport
 - Arrive Sydney Feb 13 (crossing International Date Line)
+- Check United.com for best prices - dates flexible +/- 2 days
 
 ---
 
@@ -286,7 +288,7 @@ NYC (JFK) → Sydney (3 nights) → Hunter Valley (1 night) → Melbourne (2 nig
 ---
 
 ### DAY 14 | Tuesday, Feb 24 - Return to NYC
-**Homeward Journey**
+**Homeward Journey (United to EWR)**
 
 **Option A: Same-Day Connection (Long Travel Day)**
 
@@ -295,8 +297,8 @@ NYC (JFK) → Sydney (3 nights) → Hunter Valley (1 night) → Melbourne (2 nig
 | 6:00 AM | Check out, head to Cairns Airport |
 | 8:00 AM | Flight CNS → SYD (~3 hours) |
 | 11:00 AM | Arrive Sydney |
-| 2:30 PM | Flight SYD → JFK via LAX/AKL (22+ hours) |
-| +1 day | Arrive NYC same day (cross date line) |
+| 2:30 PM | Flight SYD → EWR via LAX/SFO on United (22+ hours) |
+| +1 day | Arrive Newark (EWR) same day (cross date line) |
 
 **Option B: Overnight in Sydney (Recommended if Budget Allows)**
 
@@ -306,8 +308,8 @@ NYC (JFK) → Sydney (3 nights) → Hunter Valley (1 night) → Melbourne (2 nig
 | 11:00 AM | Arrive Sydney - final shopping, lunch |
 | 3:00 PM | Check into airport hotel |
 | 6:00 PM | Early dinner |
-| 9:00 PM | Evening flight SYD → JFK |
-| +1 day | Arrive NYC |
+| 9:00 PM | Evening flight SYD → EWR (United) |
+| +1 day | Arrive Newark (EWR) |
 
 ---
 
@@ -328,7 +330,7 @@ NYC (JFK) → Sydney (3 nights) → Hunter Valley (1 night) → Melbourne (2 nig
 
 | Type | When | Details |
 |------|------|---------|
-| **International Flight** | Feb 11 | NYC → Sydney |
+| **International Flight** | Feb 11 | Newark (EWR) → Sydney (United via LAX/SFO) |
 | **Rental Car #1** | Feb 16-17 | Sydney → Hunter Valley → Sydney Airport (2 days) |
 | **Domestic Flight** | Feb 17 | Sydney → Melbourne |
 | **Domestic Flight** | Feb 19 | Melbourne → Hobart |
@@ -336,7 +338,7 @@ NYC (JFK) → Sydney (3 nights) → Hunter Valley (1 night) → Melbourne (2 nig
 | **Domestic Flights** | Feb 21 | Hobart → Melbourne → Cairns |
 | **Shuttles/Ubers** | Feb 21-24 | Cairns/Port Douglas area |
 | **Domestic Flight** | Feb 24 | Cairns → Sydney |
-| **International Flight** | Feb 24 | Sydney → NYC |
+| **International Flight** | Feb 24 | Sydney → Newark (EWR) (United via LAX/SFO) |
 
 ---
 

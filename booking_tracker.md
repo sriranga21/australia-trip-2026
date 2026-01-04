@@ -12,18 +12,23 @@
 
 ## 1. FLIGHTS
 
-### International Flights
+### International Flights (United from Newark)
 
 | Segment | Date | Route | Airline | Price (per person) | Status | Booking Link |
 |---------|------|-------|---------|-------------------|--------|--------------|
-| Outbound | Feb 11 | JFK → SYD | Qantas (via AKL) | $1,606 RT | [ ] | [Google Flights](https://www.google.com/travel/flights?q=JFK%20to%20SYD%20Feb%2011%202026) |
-| Outbound (Budget) | Feb 11 | JFK → SYD | American/Qantas (via DFW) | $1,456 RT | [ ] | [Google Flights](https://www.google.com/travel/flights) |
-| Return | Feb 24 | SYD → JFK | (included in RT) | -- | [ ] | -- |
+| Outbound | Feb 11 (+/- 2 days) | EWR → SYD | United (via LAX) | ~$1,100 RT | [ ] | [United.com](https://www.united.com) |
+| Outbound | Feb 11 (+/- 2 days) | EWR → SYD | United (via SFO) | ~$1,100 RT | [ ] | [United.com](https://www.united.com) |
+| Return | Feb 24 | SYD → EWR | United (included in RT) | -- | [ ] | -- |
 
-**Best Value:** American/Qantas via Dallas - $1,456 per person round trip
-**Best Comfort:** Qantas via Auckland - $1,606 per person (single airline, better service)
+**Why United from EWR:**
+- ~$1,100/person round trip (price seen, may fluctuate)
+- US domestic connections only (LAX, SFO, IAH) - **NO transit visa required for Indian passport**
+- Avoids Canada transit visa requirement (Air Canada via YVR)
+- MileagePlus earning opportunity
 
-**Total International (2 people):** $2,912 - $3,212
+**Note:** Prices fluctuate daily. Check United.com directly and be flexible +/- 2 days for best fares.
+
+**Total International (2 people):** ~$2,200
 
 ### Domestic Flights
 
@@ -215,7 +220,7 @@
 
 | Category | Budget | Mid-Range | Premium |
 |----------|--------|-----------|---------|
-| International Flights | $1,456 | $1,606 | $1,800 |
+| International Flights (United EWR) | $1,100 | $1,100 | $1,300 |
 | Domestic Flights | $480 | $650 | $860 |
 | Accommodation (11 nights) | $940 | $1,400 | $2,000 |
 | Car Rentals | $135 | $160 | $195 |
@@ -224,15 +229,17 @@
 | Local Transport | $100 | $150 | $200 |
 | Visa | $70 | $70 | $70 |
 | Miscellaneous | $100 | $150 | $200 |
-| **TOTAL PER PERSON** | **$4,381** | **$5,686** | **$7,225** |
+| **TOTAL PER PERSON** | **$4,025** | **$5,180** | **$6,725** |
 
 ### Total for 2 People
 
 | Tier | Total Estimate |
 |------|----------------|
-| **Budget** | **$8,762** |
-| **Mid-Range** | **$11,372** |
-| **Premium** | **$14,450** |
+| **Budget** | **$8,050** |
+| **Mid-Range** | **$10,360** |
+| **Premium** | **$13,450** |
+
+**Savings vs JFK options:** ~$700-$1,000 total by flying United from EWR
 
 ---
 
@@ -284,10 +291,11 @@
 ## 8. QUICK BOOKING LINKS
 
 ### Flights
-- [Google Flights](https://www.google.com/travel/flights) - Best for price comparison
-- [Qantas](https://www.qantas.com/au/en/book-a-trip/flights.html)
-- [Virgin Australia](https://www.virginaustralia.com)
-- [Jetstar](https://www.jetstar.com)
+- [United.com](https://www.united.com) - Book international EWR→SYD here
+- [Google Flights](https://www.google.com/travel/flights) - Price comparison
+- [Qantas](https://www.qantas.com/au/en/book-a-trip/flights.html) - Domestic Australia
+- [Virgin Australia](https://www.virginaustralia.com) - Domestic Australia
+- [Jetstar](https://www.jetstar.com) - Budget domestic
 
 ### Hotels
 - [Booking.com](https://www.booking.com) - Free cancellation options
