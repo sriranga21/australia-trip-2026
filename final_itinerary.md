@@ -97,105 +97,93 @@ continue the walk or Campbell's for souvenirs
 ---
 
 ### DAY 3 | Sunday, March 8 - BLUE MOUNTAINS DAY TRIP
-**Theme: Mountains, Waterfalls, Rainforest**
+**Theme: Mountains, Rainforest & Scenic Views**
 
-| Time | Activity |
-|------|----------|
-| 6:30 AM | Pick up rental car (Hertz/Avis/Budget CBD location) | commuter traiun is fullly booked this day can look into the BMT line. Car is about $80 USD but parking at blue mountains can be about $10 an hour
-| 7:00 AM | Depart Sydney: can go either fastest as M4 motorway or scenic look of Bells Line of ROad connects NOrth Richmnond with Lithgrow and passses through Mt TOmah, home to Blue Mountains Botanic Garden|
-| 8:30 AM | Arrive **Scenic World** Violet St &, Cliff Dr, Katoomba NSW 2780, Australia (opens 9 AM) |
-| 9:00 AM | **Scenic World experiences** (3 hours): |
-| | - Scenic Railway (world's steepest incline railway) |
-| | - Scenic Walkway (2.4km rainforest boardwalk) |
-| | - Scenic Skyway (glass-floor cable car over valley) |
-| | - Scenic Cableway (descend into valley) |
-| 12:00 PM | Drive to Katoomba/Wentworth Falls for lunch |
-| 12:30 PM | **Lunch: Mountain High Pies** (Wentworth Falls) - 6-8 vegan pie options |
-| | OR **The Yellow Deli** (Katoomba) - unique rustic atmosphere |
-  |1:30 PM | go to  to Prince Rocks Lookout/Wentworth Falls, Empress Falls, then Gladstone Lookout, then Sublime Point Lookout, then Olympian Rock
-| 2:30 PM | **Echo Point - Three Sisters Lookout** (iconic view, easy walks) |
-| 3:30 PM | Short walk on **Prince Henry Cliff Walk** (easy-moderate, great views) |
-| 4:30 PM | Drive to **Govetts Leap** (Blackheath) - most spectacular valley views |
-| 5:30 PM | Depart for Sydney |
-| 7:00 PM | Return rental car |
-| 7:30 PM | **Dinner: Hari's Vegetarian** (CBD) - fully vegan Indian buffet, budget-friendly |
+| Time          | Activity                                                                                                                                                                                            |
+|---------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 7:00-7:30 AM  | Depart Sydney Central Station on an early **Blue Mountains Line train** to Katoomba. (~2 hours)                                                                                                     |
+| 9:30 AM       | Arrive Katoomba. Pick up **Explorer Bus** tickets at the shop next to the station.                                                                                                                   |
+| 9:45 AM       | Board Explorer Bus to **Echo Point (Stop 6)** for iconic morning views of the **Three Sisters**.                                                                                                     |
+| 10:30 AM      | **Hike to Scenic World** via the **Prince Henry Cliff Walk**. (1-1.5 hours, stunning valley views).                                                                                                   |
+| 12:00 PM      | **Explore Scenic World** (2.5 hours): Follow the route: **Scenic Skyway** -> **Scenic Railway** (into valley) -> **Scenic Walkway** (rainforest) -> **Scenic Cableway** (back to top).                  |
+| 2:30 PM       | Take Explorer Bus from Scenic World back to Katoomba for lunch.                                                                                                                                     |
+| 3:00 PM       | **Lunch: Mountain High Pies** for quick grab-and-go vegan pies, or **Earth Wholefoods** for a relaxed sit-down meal.                                                                                  |
+| 4:00 PM       | Hop on the Explorer bus to **Leura Cascades (Stop 18)** for a short walk and final views.                                                                                                             |
+| 4:45 PM       | Board one of the last Explorer Bus services back to Katoomba. **Confirm last bus time with driver!**                                                                                                  |
+| 6:00 PM       | **Dinner: Basil Nut Café** in Katoomba for vegan-friendly Asian fusion.                                                                                                                               |
+| 7:00 PM       | Board return train to Sydney Central.                                                                                                                                                               |
 
 **Blue Mountains Logistics:**
-| Item | Details |
-|------|---------|
-| **Drive time** | 1.5 hours from Sydney CBD |
-| **National Park fee** | FREE (Katoomba area) |
-| **Scenic World tickets** | $61 AUD/person - **PRE-BOOK at scenicworld.com.au** |
-| **Scenic World parking** | FREE (multi-storey at 1 Violet Street, Katoomba) |
-| **Scenic World hours** | 9 AM - 5 PM (Fri: 10 AM - 4 PM) |
-| **Car rental** | ~$80-100 AUD for the day |
+| Item                  | Details                                                                                                |
+|-----------------------|--------------------------------------------------------------------------------------------------------|
+| **Transport**         | Sydney Trains (Opal card) + Blue Mountains Explorer Bus (Hop-On Hop-Off).                                |
+| **Train Fare**        | ~$8.40-16.80 AUD/person return (Opal daily cap).                                                         |
+| **Explorer Bus Pass** | ~$55 AUD/person. **Pre-book at explorerbus.com.au**.                                                    |
+| **Scenic World**      | ~$55 AUD/person. **Pre-book at scenicworld.com.au**.                                                     |
+| **Main Stops**        | Katoomba Station, Echo Point (Three Sisters), Scenic World, Leura Cascades.                              |
 
-**Nature/Scenic:** Three Sisters, Wentworth Falls, Govetts Leap - stunning valley and waterfall views
+**Nature/Scenic:** Three Sisters at Echo Point, Jurassic rainforest on the Scenic Walkway, Prince Henry Cliff Walk, Leura Cascades.
 
 **Vegan Food Options - Blue Mountains:**
-- Mountain High Pies ($) - Vegan pies
-- The Yellow Deli ($) - Vegan-friendly
-- Leura Health Foods ($$) - Good for snacks/supplies
+- **Mountain High Pies ($)** - Famous for a wide variety of savory and sweet vegan pies (Katoomba).
+- **Earth Wholefoods ($$)** - 100% plant-based cafe with healthy, organic meals (Katoomba).
+- **Basil Nut Café ($$)** - Modern Asian fusion with a dedicated vegan section (Katoomba).
+- **Gia Café & Bistro ($$)** - Cafe in Leura with vegan options.
+- **Jiggle Korean BBQ ($$)** - Unique option in Leura with vegan choices.
 
 ---
 
 ### DAY 4 | Monday, March 9 - SYDNEY: Opera House & Manly Beach
-**Theme: Icons & Beach Town**
+**Theme: Icons & Coastal Views**
 
 | Time | Activity |
 |------|----------|
 | 8:30 AM | Breakfast near Circular Quay |
-| 9:45 AM | **start Sydney Opera House Tou tickets purchased** (1 hour) |
-| 10:45 AM | Walk around Opera House forecourt, photos |
- **Circular Quay Wharf 2 Ferry to Manly Beach on MFF Ferry every 15min** (30 min scenic ride - don't miss this!) |
-| 12:00 PM | **Lunch: Ruby Lane Wholefoods** closes at 3pm (Manly) - organic, sustainable, great vegan options |
-| | OR **Girdlers** closing 3pm - famous for buckwheat crepes & healthy bowls |
- | OR **THe Hold**  4 Sydney Rd, Manly NSW 2095, Australia with a seprate vegan menu open til 12am
-| 1:30 PM | Hello Manly/Manly Cove start here
-Fairlight Beach, then Forty Baskets, Reef beach, then Dobroyd HEad (viewpoint/lookout), then Crater Cove, then Grotto Point, Castle ROck Beach, Clontarf Beach, Fisher Bay, then Spot Bridge
-| 5:00 PM | Ferry back to Circular Quay (catch sunset around7-7:50pm  on the harbour!)
- to One Central Park Cool Arch Building LIghtshow 28 Broadway, Chippendale NSW 2008, Australia 
- OR State Theatre guided tour about $20 USD 49 Market St, Sydney NSW 2000, Australia
-OR Chinese Garden of Frienship around $14 USD but last entry at 4:00pm
- OR Paddy's Marlets Haymarekt but closes at 5pm|
-| 8:00 PM | **Dinner: Mother Chu's Vegetarian Kitchen** (CBD) - Authentic Asian |
+| 9:45 AM | **Sydney Opera House Tour** (1 hour) - Pre-booked |
+| 10:45 AM | Photos on the forecourt |
+| 11:15 AM | **Ferry to Manly** (Wharf 2, ~30 mins). Enjoy the harbour views! |
+| 12:00 PM | **Lunch: The Hold** (Manly) - Nautical themed with great vegan burgers. |
+| | OR **Ruby Lane Wholefoods** - Organic & healthy. |
+| 1:30 PM | **Manly Scenic Walk (Short Version):** |
+| | 1. Walk along **Manly Beach** to **Shelly Beach** (Cabbage Tree Bay). |
+| | 2. Walk up to **North Head Sanctuary** (or take a quick Uber to the top). |
+| | 3. Do the **Fairfax Walk** loop (1km) for spectacular views of the harbour entrance and city skyline. |
+| 4:30 PM | Ferry back to Circular Quay. |
+| 5:30 PM | **Dinner: Lord Nelson Brewery** (The Rocks) - Historic pub food. |
+| 7:30 PM | Optional: Walk across the **Sydney Harbour Bridge** at sunset/twilight. |
 
 **Book in Advance:**
-- Sydney Opera House Tour: ~$43 AUD/person at sydneyoperahouse.com
+- Sydney Opera House Tour: ~$43 AUD/person
 
-**Nature/Scenic:** Manly-Shelly Beach coastal walk, ferry ride with harbour views
+**Nature/Scenic:** North Head Lookout - arguably the best view of Sydney Harbour!
 
 **Vegan Food Options - Manly:**
-- Ruby Lane Wholefoods ($$) - Organic, extensive vegan menu
-- Girdlers ($$) - Healthy cafe, buckwheat crepes
-- Momo Bar Manly ($$) - Vegan dumplings & poke
-- Palmó Artisan Açai ($$) - Acai bowls (formerly Bare Naked Bowls)
+- The Hold ($$) - Vegan burgers & sides
+- Ruby Lane Wholefoods ($$) - Organic cafe
+- Momo Bar ($$) - Dumplings
 
 ---
 
 ### DAY 5 | Tuesday, March 10 - FLY TO MELBOURNE
-**Theme: Travel Day + Laneway Exploration**
+**Theme: Early Flight & City Culture**
 
 | Time | Activity |
 |------|----------|
-| 8:00 AM | Breakfast, check out of Sydney hotel |
-| 9:00 AM | Airport Link train to SYD airport |
-| 11:00 AM | Flight SYD → MEL (~1.5 hours) |
-| 12:30 PM | Arrive Melbourne (MEL) |
-| 1:00 PM | SkyBus to CBD (~$20 AUD) or taxi |
-| 2:00 PM | Check into Melbourne hotel |
-| 2:30 PM | **Lunch: Shandong Mama** (Chinatown) - cult vegan dumplings |
-| 3:30 PM | Explore **Melbourne Laneways**: |
-| | - Hosier Lane (famous street art) |
-| | - Centre Place |
-| | - Degraves Street (coffee culture) |
-| | - Hardware Lane |
-| 6:00 PM | Rest at hotel |
-| 7:30 PM | **Dinner: Smith & Daughters** (Collingwood) - Melbourne's best vegan fine dining |
+| 6:30 AM | Check out, Airport Link train to SYD airport. |
+| 8:30 AM | **Flight SYD → MEL** (Land ~10:00 AM). |
+| 10:30 AM | Pick up rental car at MEL airport. |
+| 11:30 AM | Drive to CBD/Southbank, drop bags at hotel. |
+| 12:00 PM | **Lunch: Gong De Lin** (Swanston St) or **Shandong Mama** (Chinatown). |
+| 1:30 PM | Explore **Melbourne Laneways**: |
+| | - Degraves Street & Centre Place (Coffee culture) |
+| | - Hosier Lane (Street Art) |
+| 3:30 PM | Walk to **State Library of Victoria** to see the famous Dome. |
+| 6:00 PM | Rest at hotel. |
+| 7:30 PM | **Dinner: Smith & Daughters** (Collingwood) - Iconic vegan dining. |
 
 **Book in Advance:**
 - Smith & Daughters reservation (very popular!)
-- Domestic flight SYD → MEL
+- Domestic flight SYD → MEL (Early Morning)
 
 **Vegan Food Options - Melbourne CBD:**
 - Shandong Mama ($$) - Vegan dumplings (Chinatown)
@@ -204,61 +192,47 @@ OR Chinese Garden of Frienship around $14 USD but last entry at 4:00pm
 
 ---
 
-### DAY 6 | Wednesday, March 11 - GREAT OCEAN ROAD DAY TOUR
-**Theme: Coastal Scenery, Twelve Apostles, Wildlife**
+### DAY 6 | Wednesday, March 11 - GREAT OCEAN ROAD (Day 1)
+**Theme: Early Start, Surf Coast & Koalas**
 
 | Time | Activity |
 |------|----------|
-| 7:00 AM | Hotel pickup for **Great Ocean Road day tour** |
-| 8:30 AM | Stop at Torquay / Bells Beach (surf culture) |
-| 10:00 AM | Anglesea (wild kangaroos on golf course) |
-| 11:00 AM | **Kennett River** - wild koalas in eucalyptus trees! |
-| 12:30 PM | **Lunch stop** in Apollo Bay (notify tour of vegan needs) |
-| 2:30 PM | **Twelve Apostles** - iconic limestone stacks |
-| 3:30 PM | **Loch Ard Gorge** - dramatic gorge, short walks |
-| 4:30 PM | London Bridge, The Grotto |
-| 8:30 PM | Return to Melbourne |
-| 9:00 PM | Late **Dinner: Trippy Taco** (Fitzroy) - vegan tacos & burritos |
+| 6:00 AM | **Depart Melbourne** (Early start to beat crowds!) |
+| 7:30 AM | **Bells Beach** - Watch the surfers. |
+| 9:00 AM | **Kennett River Koala Walk** - Spot wild koalas. |
+| 11:30 AM | **Lunch in Lorne** (HAH Lorne Beach or Bottle of Milk). |
+| 1:30 PM | Drive to Apollo Bay, stop at **Teddy's Lookout**. |
+| 3:00 PM | Check into accommodation in Apollo Bay. |
+| 4:30 PM | **Marriners Lookout** for sunset views. |
+| 6:30 PM | **Dinner: Sandy Feet Cafe** (Apollo Bay). |
 
-**Great Ocean Road Tour Options:**
-| Operator | Price (AUD) | Style |
-|----------|-------------|-------|
-| **Bunyip Tours** | ~$150/person | Small-medium group, good value |
-| **AAT Kings** | ~$185/person | Large coach, established operator |
+**Note:** Self-drive itinerary. See `melbourne_itinerary_2026.md` for full details.
 
 **Book in Advance:**
-- Great Ocean Road tour
-- **Notify tour operator of vegan dietary requirements!**
+- Apollo Bay accommodation
+- Rental Car
 
-**Nature/Scenic:** Twelve Apostles, Loch Ard Gorge, wild koalas - spectacular coastal scenery!
+**Nature/Scenic:** Wild koalas, Bells Beach, Coastal lookouts.
 
 ---
 
-### DAY 7 | Thursday, March 12 - MELBOURNE FULL DAY
-**Theme: Markets, Coffee, Culture**
+### DAY 7 | Thursday, March 12 - GREAT OCEAN ROAD (Day 2)
+**Theme: Twelve Apostles & Rainforest**
 
 | Time | Activity |
 |------|----------|
-| 8:00 AM | Coffee crawl - Degraves Street, Patricia Coffee Brewers |
-| 9:30 AM | **Queen Victoria Market** (open Thu) |
-| 11:30 AM | **Brunch: Evie's Disco Diner** (Fitzroy) - vegan-leaning diner |
-| 1:00 PM | **NGV (National Gallery of Victoria)** - free general admission |
-| 3:00 PM | Tram to **Fitzroy** - Brunswick Street exploration |
-| 4:00 PM | Street art walk, vintage shops |
-| 5:30 PM | Return to hotel, pack for Hobart |
-| 7:30 PM | **Dinner: Red Sparrow** (Collingwood) - fully vegan pizza! |
+| 6:00 AM | **Breakfast** & Early Depart. |
+| 7:00 AM | **Maits Rest Rainforest Walk**. |
+| 8:30 AM | **The Twelve Apostles** (Beat the tour buses!). |
+| 9:30 AM | **Gibson Steps** & **Loch Ard Gorge**. |
+| 12:00 PM | **Lunch in Port Campbell**. |
+| 1:30 PM | Begin return drive to Melbourne (Inland route). |
+| 4:30 PM | Arrive Melbourne, return rental car. |
+| 6:30 PM | **Dinner: Red Sparrow** (Collingwood) - Vegan Pizza. |
 
-**Transport:** All by tram (get a Myki card) + walking
+**Transport:** Self-drive.
 
-**Nature/Scenic:** Royal Botanic Gardens Melbourne (if time permits)
-
-**Vegan Food Options - Fitzroy/Brunswick:**
-- Smith & Daughters ($$$) - Fine dining vegan
-- Evie's Disco Diner ($$) - Vegan-leaning
-- Red Sparrow ($$) - Fully vegan pizza
-- Trippy Taco ($$) - Vegan tacos
-- Kevabs ($) - Fully vegan kebabs (Brunswick)
-- The Cornish Arms ($$) - Vegan pub food (Brunswick)
+**Nature/Scenic:** Twelve Apostles, Rainforest, Shipwreck Coast.
 
 ---
 
