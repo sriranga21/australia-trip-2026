@@ -56,21 +56,20 @@
 |------|----------|
 | 9:05 AM | Arrive Sydney (SYD) |
 | 10:00 AM | Clear immigration/customs |
-| 10:30 AM | Take Airport Link train to Circular Quay (~$20 AUD, 25 min) |
-| 11:30 AM | Drop bags at hotel (early check-in or luggage storage) |
-| 12:00 PM | **Lunch: Bodhi Restaurant** - fully vegan yum cha under fig trees (The Rocks) |
-| 1:30 PM | Walk through **The Rocks** historic area |
-| 2:30 PM | Stroll to **Circular Quay** - first views of Opera House & Harbour Bridge |
-| 3:30 PM | Walk through **Royal Botanic Garden** (free, scenic harbour views) |
-| 5:00 PM | Check into hotel, rest/nap for jet lag |
-| 7:30 PM | **Dinner: Kindness Cafe** (Surry Hills) - fully vegan, fresh food |
-
-**Nature/Scenic:** Royal Botanic Garden walk (easy, 1-2 hours, harbour views)
+| 10:30 AM | Take Airport Link train to Circular Quay (~$20 AUD, 25 min) or Uber might be cheaper 
+Take Airport Link Train T8 to Central Station to City Circle via Museum  t2/t3 lines 4 stops: Msuueum, St, James. Circular QUay, then Wynward |
+| 11:30 AM | Drop bags at hotel (early check-in or luggage storage) checkin whenever |
+| 12:00 PM | **Lunch: Peace Harmony** - fully vegan Thai - 29 King St, Sydney, New South Wales, Australia or ramen at Towzen-Sydney |
+| 1:30 PM | 20min Walk to **Royal Botanic Garden** (free, scenic harbour views) |
+| 2:30 PM | The Rocks Walking tour- Start Platform 2 train station view- Circular quay (Self guided - [Google Map](https://www.google.com/maps/d/u/0/viewer?ll=-33.857992921127774%2C151.20664239999996&z=16&mid=1dMX4ldtmfoh28agrSyUvtwwLZao)) |
+Time permitting can go to the Chinatown Paddy's Market Haymarket  for souvneirs *if more time look at Day 4 after Manly Beach
+| 6:30 PM | **Dinner: Govinda's Indian** 112 Darlinghurst Rd, Darlinghurst, NSW 2010 - vegetarian or Health Nuts Shop and Cafe (also vegetarian) |
 
 **Vegan Food Options - The Rocks/CBD:**
-- Bodhi Restaurant ($$) - Fully vegan yum cha
-- Iku Wholefood ($) - Vegan nourish bowls
-- Kindness Cafe ($$) - Fully vegan, Surry Hills
+- Mother Chu's Vegetarian Kitchen ($$) - Authentic vegetarian/vegan Asian cuisine (CBD)
+- Lord Nelson Brewery Hotel ($$) - Historic pub with vegan options (The Rocks)
+- Shift Eatery ($$) - Vegan deli and cafe (Surry Hills)
+- Peace Harmony ($) - Fully vegan Thai (CBD)
 
 ---
 
@@ -79,26 +78,21 @@
 
 | Time | Activity |
 |------|----------|
-| 7:00 AM | Early breakfast at hotel or grab coffee |
-| 7:30 AM | Uber/bus to Bondi Beach |
-| 8:00 AM | **Bondi to Coogee Coastal Walk** (6km, 2-2.5 hours, moderate) |
-| | Stops: Tamarama Beach, Bronte Beach, Clovelly, Coogee |
-| 10:30 AM | Arrive Coogee, swim or relax |
-| 11:30 AM | Bus back to Bondi |
-| 12:00 PM | **Brunch: Funky Pies** (Bondi) - fully vegan Aussie meat pies! |
-| 1:30 PM | Explore Bondi Beach, Campbell Parade |
-| 3:00 PM | Return to city |
-| 4:00 PM | Explore **Barangaroo Reserve** (waterfront park, nice views) |
-| 5:30 PM | Rest at hotel |
-| 7:30 PM | **Dinner: Yulli's** (Surry Hills) - vegan-friendly, great share plates |
+| 7:00 AM | Go to Hornby Lighthouse, (Camp Cove Beach) then The Gap, Watsons Bay NSW, walk to Parsley Bay Beach, down to Hermitage Foreshore walk, Vaucluse NSW |
+| 9:00 AM | Uber is 12 min, bus is 1 hour to **Bondi to Coogee Coastal Walk** (6km, 2-2.5 hours, moderate) START at Bondi Beach/Bondi Pavilion |
+| 10:00 AM | Then go to Bondi Icebergs Saltwater pools (A$12 entry if you want to dip), next go to Tamarama Beach, then Bronte Beach, then Waverley Cemetery, then Burrows Park, then Clovelly Beach, then Gordons Bay, Dolphins Point END at Coogee Beach |
+| 12:00 PM | **Lunch: Funky Pies** (Bondi) - fully vegan Aussie meat pies! Shop 2, 144-148 Glenayr Ave, Bondi Beach, NSW 2026. (Bean Tree is vegetarian) |
+continue the walk or Campbell's for souvenirs 
+| 4:00 PM | Explore **Barangaroo Reserve** (waterfront park, nice views) Hickson Rd, Barangaroo NSW 2000, Australia | Barangaroo Point Reserve, Barangaroo NSW 2000, Australia (over by Circular Quay) |
+| 6:30 PM | **Dinner: Yulli's** (Surry Hills - south of Circular Quay and just east of Central Train Station) - vegan-friendly, great share plates |
 
 **Nature/Scenic:** Bondi-Coogee walk - stunning coastal cliffs, beaches, ocean views (MUST DO!)
 
 **Vegan Food Options - Bondi:**
 - Funky Pies ($) - Fully vegan Aussie pies
-- Trio ($$) - Vegan-friendly brunch
+- Speedos Cafe ($$) - Vegan-friendly, famous Instagram spot (North Bondi)
 - Sabbaba ($$) - Middle Eastern, vegan options
-- The Plant Gallery ($$) - Raw vegan
+- Oakberry Acai ($) - Acai bowls (Bondi Beach)
 
 ---
 
@@ -107,9 +101,9 @@
 
 | Time | Activity |
 |------|----------|
-| 6:30 AM | Pick up rental car (Hertz/Avis/Budget CBD location) |
-| 7:00 AM | Depart Sydney, coffee/snacks for the road |
-| 8:30 AM | Arrive **Scenic World** (opens 9 AM) |
+| 6:30 AM | Pick up rental car (Hertz/Avis/Budget CBD location) | commuter traiun is fullly booked this day can look into the BMT line. Car is about $80 USD but parking at blue mountains can be about $10 an hour
+| 7:00 AM | Depart Sydney: can go either fastest as M4 motorway or scenic look of Bells Line of ROad connects NOrth Richmnond with Lithgrow and passses through Mt TOmah, home to Blue Mountains Botanic Garden|
+| 8:30 AM | Arrive **Scenic World** Violet St &, Cliff Dr, Katoomba NSW 2780, Australia (opens 9 AM) |
 | 9:00 AM | **Scenic World experiences** (3 hours): |
 | | - Scenic Railway (world's steepest incline railway) |
 | | - Scenic Walkway (2.4km rainforest boardwalk) |
@@ -118,9 +112,9 @@
 | 12:00 PM | Drive to Katoomba/Wentworth Falls for lunch |
 | 12:30 PM | **Lunch: Mountain High Pies** (Wentworth Falls) - 6-8 vegan pie options |
 | | OR **The Yellow Deli** (Katoomba) - unique rustic atmosphere |
-| 1:30 PM | **Echo Point - Three Sisters Lookout** (iconic view, easy walks) |
-| 2:30 PM | Short walk on **Prince Henry Cliff Walk** (easy-moderate, great views) |
-| 3:30 PM | Drive to **Wentworth Falls Lookout** (waterfall views) |
+  |1:30 PM | go to  to Prince Rocks Lookout/Wentworth Falls, Empress Falls, then Gladstone Lookout, then Sublime Point Lookout, then Olympian Rock
+| 2:30 PM | **Echo Point - Three Sisters Lookout** (iconic view, easy walks) |
+| 3:30 PM | Short walk on **Prince Henry Cliff Walk** (easy-moderate, great views) |
 | 4:30 PM | Drive to **Govetts Leap** (Blackheath) - most spectacular valley views |
 | 5:30 PM | Depart for Sydney |
 | 7:00 PM | Return rental car |
@@ -151,17 +145,20 @@
 | Time | Activity |
 |------|----------|
 | 8:30 AM | Breakfast near Circular Quay |
-| 9:30 AM | **Sydney Opera House Tour** (1 hour) |
+| 9:45 AM | **start Sydney Opera House Tou tickets purchased** (1 hour) |
 | 10:45 AM | Walk around Opera House forecourt, photos |
-| 11:30 AM | **Ferry to Manly Beach** (30 min scenic ride - don't miss this!) |
-| 12:00 PM | **Lunch: Pure Wholefoods** (Manly) - fully vegan, great wraps |
-| | OR **Native - Feel Real** - raw vegan cafe |
-| 1:30 PM | **Manly to Shelly Beach walk** (easy, 30 min each way, scenic) |
-| 2:30 PM | Relax at Shelly Beach (snorkeling possible) or Manly Beach |
-| 4:00 PM | Walk the Manly Corso, explore shops |
-| 5:00 PM | Ferry back to Circular Quay (catch sunset on the harbour!) |
-| 6:30 PM | Rest at hotel, pack for Melbourne |
-| 8:00 PM | **Dinner: Bodhi Restaurant** (return for evening meal) |
+ **Circular Quay Wharf 2 Ferry to Manly Beach on MFF Ferry every 15min** (30 min scenic ride - don't miss this!) |
+| 12:00 PM | **Lunch: Ruby Lane Wholefoods** closes at 3pm (Manly) - organic, sustainable, great vegan options |
+| | OR **Girdlers** closing 3pm - famous for buckwheat crepes & healthy bowls |
+ | OR **THe Hold**  4 Sydney Rd, Manly NSW 2095, Australia with a seprate vegan menu open til 12am
+| 1:30 PM | Hello Manly/Manly Cove start here
+Fairlight Beach, then Forty Baskets, Reef beach, then Dobroyd HEad (viewpoint/lookout), then Crater Cove, then Grotto Point, Castle ROck Beach, Clontarf Beach, Fisher Bay, then Spot Bridge
+| 5:00 PM | Ferry back to Circular Quay (catch sunset around7-7:50pm  on the harbour!)
+ to One Central Park Cool Arch Building LIghtshow 28 Broadway, Chippendale NSW 2008, Australia 
+ OR State Theatre guided tour about $20 USD 49 Market St, Sydney NSW 2000, Australia
+OR Chinese Garden of Frienship around $14 USD but last entry at 4:00pm
+ OR Paddy's Marlets Haymarekt but closes at 5pm|
+| 8:00 PM | **Dinner: Mother Chu's Vegetarian Kitchen** (CBD) - Authentic Asian |
 
 **Book in Advance:**
 - Sydney Opera House Tour: ~$43 AUD/person at sydneyoperahouse.com
@@ -169,10 +166,10 @@
 **Nature/Scenic:** Manly-Shelly Beach coastal walk, ferry ride with harbour views
 
 **Vegan Food Options - Manly:**
-- Pure Wholefoods ($$) - Fully vegan
-- Native - Feel Real ($$) - Raw vegan cafe
-- Momo Bar Manly ($$) - Vegan dumplings
-- Bare Naked Bowls ($$) - Acai bowls
+- Ruby Lane Wholefoods ($$) - Organic, extensive vegan menu
+- Girdlers ($$) - Healthy cafe, buckwheat crepes
+- Momo Bar Manly ($$) - Vegan dumplings & poke
+- Palmó Artisan Açai ($$) - Acai bowls (formerly Bare Naked Bowls)
 
 ---
 
@@ -280,7 +277,7 @@
 | 2:00 PM | Explore MONA (3-4 hours) - Australia's most unique/provocative museum |
 | 6:00 PM | Return to Hobart |
 | 6:30 PM | Walk **Salamanca Place** - historic waterfront warehouses |
-| 7:30 PM | **Dinner: Monsoon** (Salamanca) - vegan Thai options |
+| 7:30 PM | **Dinner: Monsoon Thai Fusion** (Battery Point) - vegan friendly |
 
 **Book in Advance:**
 - Car rental from Hobart Airport (~$70-100/day)
@@ -288,11 +285,11 @@
 - Domestic flight MEL → HBA
 
 **Vegan Food Options - Hobart:**
-- Thai Veggie Hutt ($) - Mostly vegan Thai
-- Monsoon ($$) - Vegan Thai options
-- Veg Bar ($$) - Vegetarian/vegan bar
-- Heartfood ($) - Wholefood cafe
-- Chai Gen Xiang ($$) - Chinese vegetarian
+- Thai Veggie Hutt ($) - Mostly vegan Thai (Lunch only)
+- Monsoon Thai Fusion ($$) - Vegan friendly (Dinner)
+- Bar Wa Izakaya ($$) - Japanese with vegan menu
+- Heartfood ($) - Wholefood cafe (Lunch only)
+- Veggie Sue's ($$) - Fully vegan cafe
 
 ---
 
@@ -312,7 +309,7 @@
 | 4:00 PM | Depart for Hobart |
 | 4:30 PM | Optional stop: **Devil's Corner** vineyard (check for vegan options) |
 | 6:30 PM | Arrive Hobart |
-| 7:30 PM | **Dinner: Heartfood** (CBD) - wholefood cafe, vegan-friendly |
+| 7:30 PM | **Dinner: Bar Wa Izakaya** (Elizabeth St) - great vegan Japanese options |
 
 **IMPORTANT: Pack lunch, water, and snacks from Hobart - no vegan options in/near park!**
 
@@ -552,11 +549,11 @@
 ### Sydney
 | Restaurant | Area | Type | Price |
 |------------|------|------|-------|
-| Bodhi Restaurant | The Rocks | Fully vegan yum cha | $$ |
-| Kindness Cafe | Surry Hills | Fully vegan | $$ |
+| Mother Chu's Vegetarian | CBD | Authentic Asian | $$ |
+| Lord Nelson Brewery | The Rocks | Pub food (vegan options) | $$ |
 | Funky Pies | Bondi | Fully vegan pies | $ |
-| Pure Wholefoods | Manly | Fully vegan | $$ |
-| Hari's Vegetarian | CBD | Fully vegan Indian | $ |
+| Ruby Lane Wholefoods | Manly | Organic vegan options | $$ |
+| Peace Harmony | CBD | Fully vegan Thai | $ |
 | Yulli's | Surry Hills | Vegan-friendly | $$ |
 
 ### Melbourne
@@ -571,9 +568,10 @@
 ### Hobart
 | Restaurant | Area | Type | Price |
 |------------|------|------|-------|
-| Thai Veggie Hutt | CBD | Mostly vegan Thai | $ |
-| Heartfood | CBD | Vegan-friendly wholefood | $ |
-| Monsoon | Salamanca | Vegan Thai options | $$ |
+| Thai Veggie Hutt | CBD | Mostly vegan Thai (Lunch) | $ |
+| Heartfood | CBD | Vegan cafe (Lunch) | $ |
+| Monsoon Thai Fusion | Battery Pt | Vegan Thai options | $$ |
+| Bar Wa Izakaya | Elizabeth St | Vegan Japanese | $$ |
 
 ### Port Douglas
 | Restaurant | Area | Type | Price |
